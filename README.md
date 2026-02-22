@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Shreya Sinha</h1>
+<h1 align="center">Hi 👋, I'm Shreya Sinha</h1>
 <h3 align="center">Turning caffeine into code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriya-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="shriya-sinha" /> </p>
@@ -9,18 +9,15 @@
 
 - 🌱 I’m currently learning **Typescript and Next.JS**
 
-- 📫 Reach me at **sinhashreya2679@gmail.com**
+- 📫 Reach me at **shreya.sinha.iitbhu26@gmail.com**
 
-- ⚡ Fun fact: **I love to write poems**
+- ⚡ Fun fact: **I sketch and write poetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreya_sin72637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreya_sin72637" height="30" width="40" /></a>
+<a href="https://substack.com/@shreyasinhash" target="blank"><img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/substack.svg"alt="Substack"height="30"width="40" /></a>
 <a href="https://linkedin.com/in/ishreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-sinha-22217b256" height="30" width="40" /></a>
-<a href="https://instagram.com/shreya_ev14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya_sin97" height="30" width="40" /></a>
-<a href="https://www.behance.net/shreyasinha29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shreyasinha29" height="30" width="40" /></a>
-<a href="https://medium.com/@shreyasin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyasin97" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sinhashreya2679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sinhashreya2679" height="30" width="40" /></a>
+<a href="https://instagram.com/shreyasinha.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya_sin97" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
