@@ -3,21 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriya-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="shriya-sinha" /> </p>
 
-- 🐱 I'm final year student from **IIT-BHU (Varanasi)** pursuing a Bachelor of Technology.
-  ✨
-- 🔭 I’m currently getting my hands dirty on **DSA and Open source projects**
-
-- 🌱 I’m currently learning **Typescript and Next.JS**
-
+  
+- 🔭 Working on **DSA, Open Source, and AI-powered software (NN & LLMs)**
+- 🌱 Learning **AI system design & integration**
+- ⚡ Fun fact: **I sketch & write poetry**
 - 📫 Reach me at **shreya.sinha.iitbhu26@gmail.com**
-
-- ⚡ Fun fact: **I sketch and write poetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://substack.com/@shreyasinhash" target="blank"><img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/substack.svg"alt="Substack"height="30"width="40" /></a>
 <a href="https://linkedin.com/in/ishreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-sinha-22217b256" height="30" width="40" /></a> 
-<a href="https://instagram.com/blackstroke.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya_sin97" height="30" width="40" /></a> 
+<a href="https://instagram.com/shreyasinha.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya_sin97" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
